@@ -3,4 +3,4 @@
 - Add the rpc for each of them
 - run `npm -v`
 - run `node -v`
-- run `node -v`
+- run `npm install`
