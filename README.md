@@ -2,4 +2,5 @@
 - Just add your wallet address
 - Add the rpc for each of them
 - run `npm -v`
-- rum `node -v`
+- run `node -v`
+- run `npm i`
