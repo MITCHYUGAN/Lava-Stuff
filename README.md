@@ -4,3 +4,4 @@
 - run `npm -v`
 - run `node -v`
 - run `npm i`
+- run `npm start`
